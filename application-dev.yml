@@ -1,2 +1,4 @@
-user:
-  name: shaozhuang
+mysql:
+  user: shaozhuang
+person:
+  name: 1111
